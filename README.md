@@ -1,6 +1,6 @@
 # Dockerized Stock Data Pipeline with Apache Airflow
 
-A production-ready data pipeline that automatically fetches, processes, and stores stock market data using Apache Airflow and PostgreSQL, all containerized with Docker.
+This project is a stock data pipeline built using Apache Airflow and PostgreSQL, all running inside Docker containers. It automatically fetches stock market data from the Alpha Vantage API, stores it in a database, and makes it easy to monitor and manage.
 
 ## 🎯 Features
 
@@ -273,5 +273,5 @@ Contributions are welcome! Please submit pull requests or open issues for bugs a
 
 ---
 
-**Author**: Your Name  
+**Author**: K Surya 
 **Last Updated**: December 2025
